@@ -1,4 +1,4 @@
-# Design It!
+# Design It!  &nbsp; <img src="Logo.png" alt="Logo" width="80" />
 
 **Design It!** is a room design application created as part of my final degree project for the *Cross-Platform Application Development* program. The aim is to provide an intuitive tool for users to design and visualize their interior spaces quickly and easily.
 
