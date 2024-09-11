@@ -6,9 +6,16 @@ This project is my first venture into Unity development and has served as a valu
 
 ## Features
 
-- **Room Layout Creation**: Design room layouts by defining dimensions and adding furniture.
-- **Furniture Placement**: Modify and move furniture around your custom-designed room.
-- **User-Friendly Interface**: Simple, intuitive controls for non-technical users to easily create room designs.
+- **Room Layout Creation**: Users can create room layouts by inputting dimensions, with automatic wall generation.
+- **Furniture Catalog**: A predefined menu of furniture items, filterable by categories, is available for selection and placement in the room.
+- **Object Manipulation**: Objects can be dragged, rotated, scaled (with limits), and deleted through the user interface.
+- **Customization**: Users can change the color of objects, both primary and secondary colors, when applicable.
+- **Collision Detection**: Objects will show in red when colliding with others during placement.
+- **Perspective Control**: The room view can rotate 90 degrees, with the option to hide walls for a clearer view.
+- **3D Object Preview**: A 3D preview of selected objects is shown in the UI during the editing mode.
+- **Camera Adjustment**: The camera dynamically adjusts based on room size, ensuring the entire layout remains visible.
+- **Cloud Saving**: Users can save their designs in the cloud and access them later for editing or deletion.
+- **Sound Integration**: Adjustable sound effects and background music enhance user experience, with sounds triggered when placing objects.
 
 ## Tools & Technologies
 
