@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "215658714231",
+    "firebase_url": "https://proyectotfg-bb535-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "proyectotfg-bb535",
+    "storage_bucket": "proyectotfg-bb535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215658714231:android:9eb90a67861215fb0d6272",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TFG"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeg5NCpRKNHvGeMUd2aCrC8s7bbWQ0frc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
