@@ -13,7 +13,7 @@ This project is my first venture into Unity development and has served as a valu
 ## Tools & Technologies
 
 - **Unity**: Main development platform.
-- **Firebase**: Utilizado para la gestión en tiempo real de la base de datos.
+- **Firebase**: Realtime cloud database.
 
 ## Key Learning Outcomes
 
