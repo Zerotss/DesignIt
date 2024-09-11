@@ -1,4 +1,15 @@
-# Design It!  &nbsp; <img src="Logo.png" alt="Logo" width="80" />
+# Design It&nbsp; <img src="Logo.png" alt="Logo" width="80" />
+
+## Index
+
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Tools & Technologies](#tools--technologies)
+4. [Key Learning Outcomes](#key-learning-outcomes)
+5. [Screenshots](#screenshots)
+6. [How to Run](#how-to-run)
+
+## Introduction 
 
 **Design It!** is a room design application created as part of my final degree project for the *Cross-Platform Application Development* program. The aim is to provide an intuitive tool for users to design and visualize their interior spaces quickly and easily.
 
@@ -28,7 +39,6 @@ This project is my first venture into Unity development and has served as a valu
 - Mastered Firebase integration for real-time data storage and management.
 - Developed and tested a complete application, receiving user feedback to enhance usability.
 
-
 ## Screenshots
 
 ![Mockup](Mockup.png)
@@ -37,6 +47,5 @@ This project is my first venture into Unity development and has served as a valu
 
 1. Clone the repository.
 2. Open the project in Unity.
-3. Ensure Firebase is set up for your project(remember to add google-services file).
-4. Build and run the project on your preferred platform(meant for android).
-
+3. Ensure Firebase is set up for your project (remember to add google-services file).
+4. Build and run the project on your preferred platform (meant for Android).
