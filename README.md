@@ -13,7 +13,7 @@ This project is my first venture into Unity development and has served as a valu
 ## Tools & Technologies
 
 - **Unity**: Main development platform.
-- **Balsamiq**: Mockups and prototypes for UI/UX design.
+- **Firebase**: Utilizado para la gestión en tiempo real de la base de datos.
 
 ## Key Learning Outcomes
 
