@@ -31,7 +31,7 @@ This project is my first venture into Unity development and has served as a valu
 
 ## Screenshots
 
-*Include screenshots here of your app’s main features.*
+![Mockup](Mockup.png)
 
 ## How to Run
 
