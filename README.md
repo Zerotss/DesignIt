@@ -7,7 +7,8 @@
 3. [Tools & Technologies](#tools--technologies)
 4. [Key Learning Outcomes](#key-learning-outcomes)
 5. [Screenshots](#screenshots)
-6. [How to Run](#how-to-run)
+6. [Video Demo](#video-demo)
+7. [How to Run](#how-to-run)
 
 ## Introduction 
 
@@ -42,6 +43,15 @@ This project is my first venture into Unity development and has served as a valu
 ## Screenshots
 
 ![Mockup](Mockup.png)
+
+## Video Demo
+
+Watch a demonstration of the application on YouTube, click on the logo:
+
+<a href="https://youtu.be/G3dilCsIkr0">
+    <img src="Logo.png" alt="Design It Demo" width="100" >
+</a>
+
 
 ## How to Run
 
