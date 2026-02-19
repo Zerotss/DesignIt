@@ -12,7 +12,7 @@
 
 ## Introduction 
 
-**Design It!** is a room design application created as part of my final degree project for the *Cross-Platform Application Development* program. The aim is to provide an intuitive tool for users to design and visualize their interior spaces quickly and easily.
+**Design It!** is a room design application created as part of my graduation project. The aim is to provide an intuitive tool for users to design and visualize their interior spaces quickly and easily.
 
 This project is my first venture into Unity development and has served as a valuable learning experience, allowing me to master key aspects of the Unity environment and integrate Firebase for data management.
 
